@@ -1,0 +1,23 @@
+{
+  "name": "code-fier",
+  "version": "1.0.0",
+  "description": "Un bout de code dont je suis moins fier et un autre dont je suis fier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benoitDD/code-fier.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benoitDD/code-fier/issues"
+  },
+  "homepage": "https://github.com/benoitDD/code-fier#readme",
+  "dependencies": {
+    "n-readlines": "1.0.0"
+  }
+}
